@@ -9,7 +9,7 @@ const app = (state= appIntialState, action) => {
         case INCREMENT:
             return {
                 ...state,
-                count: action.payload.value
+                count: action.value
             }
         default:
             return state;
