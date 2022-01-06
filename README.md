@@ -12,9 +12,5 @@ branch is implemented the basic redux without any middleware in the react projec
 # redux_thunk
 branch is impleted the thunk middleware with redux.
 
-# future - working on
 # redux_saga
 branch is added the saga middleware and configure to use the project easily.
-
-# auth_router
-router configured with private router, added the small aunthetication from the frontend itself.
